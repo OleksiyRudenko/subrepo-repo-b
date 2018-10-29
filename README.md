@@ -9,3 +9,4 @@ The steps below numbering is consistent across both
 and [subrepo-repo-b](https://github.com/OleksiyRudenko/subrepo-repo-b)
 
 3. Add changes and `git commit -m "Add STR"`
+4. Add changes and `git commit -m "Add STR 4"`
