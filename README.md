@@ -25,3 +25,6 @@ and [subrepo-repo-b](https://github.com/OleksiyRudenko/subrepo-repo-b)
 ```
 16) Add changes and `git commit -m "Add STR 16 (subrepoB only)"`
 17) Add changes and `git commit -m "Add STR 17 (subrepoB only)"`
+19) On remote (github):
+    - create PR
+    - merge PR to `master`
