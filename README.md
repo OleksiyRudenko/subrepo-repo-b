@@ -28,3 +28,4 @@ and [subrepo-repo-b](https://github.com/OleksiyRudenko/subrepo-repo-b)
 19) On remote (github):
     - create PR
     - merge PR to `master`
+20) Add changes and `git commit -m "Add STR 19, 20 (repoB only)"`
